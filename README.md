@@ -1,2 +1,2 @@
 # flng
-a an experimental programming language
+an experimental programming language
