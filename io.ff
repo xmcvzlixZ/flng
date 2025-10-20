@@ -1,0 +1,7 @@
+#HEAD 'io'
+
+CALL 'show'
+
+f(show) {
+ assign +++ 'z' >> ([]) ;
+}

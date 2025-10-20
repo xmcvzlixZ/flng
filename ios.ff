@@ -1,0 +1,5 @@
+CALL 'get'
+
+f(get) {
+ assign +++ 'g' >> ([]) ;
+}
